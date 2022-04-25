@@ -20,7 +20,6 @@ const banco_imagens_JSON = {IMGs:[
         {"id":"14", "LINK":"https://www.imagensanimadas.com/data/media/1618/tux-imagem-animada-0066.gif"}
     ]}
 
-//var obj_JSON = JSON.parse(banco_imagens_JSON);
 
 function f_galeria()
     {
